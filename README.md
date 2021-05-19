@@ -1,4 +1,5 @@
 # Algorithms listed in this repository
+<hr>
 
 1.  **Least Squre Fit**: this algorithm is is used to plot the polinomial of gievn data points such that the standerd deviation is minimum.
 
@@ -6,5 +7,17 @@
 
 3. **Solving 2nd Order ODE using Finite Diff MEthod**: This is done is _FiniteDiffrence.ipynb_
 
-4. **Solving Linear Equations**: I tried to relearn some algorithms to solve leaers set of equations. Here are the algorithms used:
-1. Gaussian Elimination MEthod
+1. Solving Parital Diffretntial Equations
+    1. Laplace Equation
+    1. Heat Equation
+    1. Wave Equation
+
+1. Gaussian Quadrature Integration
+1. Monte Carlo Simulation to calculate `pi`
+1. Monte Carlo Integration
+
+1. Interpolation
+
+1. Plotting the solutions of Quantuam Harmonic Oscillator
+
+4. **Solving Linear Equations**:  Using gaussian Elimination
