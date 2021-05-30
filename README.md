@@ -1,4 +1,7 @@
-# Algorithms listed in this repository
+# Mathematical Physics III lab
+
+### Algoritms listed
+
 <hr>
 
 1.  **Least Squre Fit**: this algorithm is is used to plot the polinomial of gievn data points such that the standerd deviation is minimum.
